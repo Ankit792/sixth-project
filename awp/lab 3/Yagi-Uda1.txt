@@ -1,0 +1,6 @@
+        AN-SOF ANTENNA SIMULATOR
+-------------------------------------------------
+
+3-elements Yagi-Uda antenna.
+
+Simulation of a Yagi antenna that consists of three linear wires. A directional radiation pattern is obtained as can be expected. The current distribution on the array can be plotted as a color map in order to compare the current intensities between the elements of the array.

@@ -1,0 +1,4 @@
+Implement error detection mechanism using CRC. Write C / Matlab / Python code.
+Generate CRC for a given message. Append CRC with a message for transmission. Generate error in transmitted message and identify whether it is detected.
+
+Show your computation for the following. Calculate CRC, Transmit message T(x).  Receive message R(x). R(x) can be as it is transmitted or may be with error. Show the result with error and without error at the receiver.

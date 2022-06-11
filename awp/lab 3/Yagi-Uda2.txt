@@ -1,0 +1,8 @@
+        AN-SOF ANTENNA SIMULATOR
+-------------------------------------------------
+
+5-elements Yagi-Uda antenna.
+
+Simulation of a Yagi antenna that consists of five linear wires. The driven element is a folded dipole which does not change the radiation pattern shape but it changes the input impedance for an easier impedance matching.
+
+A directional radiation pattern is obtained as can be expected. The current distribution on the array can be plotted as a color map in order to compare the current intensities between the elements of the array.

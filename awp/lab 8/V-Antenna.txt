@@ -1,0 +1,8 @@
+        AN-SOF ANTENNA SIMULATOR
+-------------------------------------------------
+
+Directional V-antenna.
+
+The horizontal arms of the V-antenna are 3 wavelengths long, so six semi-cycles of a sine function can be seen as a current distribution along the arms. The vertical wires are half-wavelength long, so they behave as half-wave center-fed dipoles.
+
+A directional radiation pattern is obtained having a main lobe pointing towards the x-axis and the radiation resistance is 73 Ohm, the same value for an infinitely thin half-wave dipole. 
